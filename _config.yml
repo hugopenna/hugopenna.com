@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Hugo Penna
-email: blog@hugopenna.com
+email: fala cmg no twitter
 description: >- # this means to ignore newlines until "baseurl:"
   Sobre gestão de produto, tecnologia, empreendedorismo raiz e o que vier à cabeça.
 
@@ -27,6 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: hugopenna.com
 twitter_username: hugopenna
 github_username:  hugopenna
+telegram_username: hugopenna
 
 # Build settings
 theme: minima
