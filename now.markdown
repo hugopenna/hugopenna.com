@@ -5,10 +5,10 @@ permalink: "/now/"
 
 ---
 
-Trabalhando na Gedanken como Gerente de Projetos/Produto
+Trabalhando na [Gedanken](https://gedanken.com.br/) como Gerente de Projetos/Produto 
 
-Terminando o Welcome to the Django
+Terminando o [Welcome to the Django](http://welcometothedjango.com.br/)
 
 Andando de bicicleta no meio do mato
 
-Em quarentena dendicasa
+Em quarentena #dendicasa
