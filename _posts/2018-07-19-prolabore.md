@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Pró-Labore pró o que?
-date: 2018-07-19 23:00:00 -0300
-categories: 'devaneios'
+date: 2020-08-24 23:00:00 -0300
+categories: 'PJ101'
 
 ---
 No meu último post falei rapidamente sobre o pró labore, que é a forma como nos referimos ao “salário” recebido pelos sócios **administradores** da empresa.
