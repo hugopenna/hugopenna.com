@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -21,7 +21,8 @@
 title: Hugo Penna
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Sobre o que vier à cabeça.
+  Blog pessoal de Hugo Penna, aqui escrevo sobre o que vier à cabeça,aventuras, devaneios, empreendedorismo, programação.
+  Efim, é tudo mesmo!
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: hugopenna.com
@@ -29,10 +30,21 @@ twitter_username: hugopenna
 github_username:  hugopenna
 linkedin_username: hugopenna
 
+defaults:
+   home:
+     heading: "Olá, eu sou o Hugo"
+     subheading: "Esse é meu espaço de expressão e comunicação."
+     banner: "/assets/banner.jpg"
+
+
 # Build settings
 theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-spaceship
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +65,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
