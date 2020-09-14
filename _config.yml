@@ -30,7 +30,7 @@ github_username:  hugopenna
 linkedin_username: hugopenna
 
 # Build settings
-theme: minima
+theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
 
