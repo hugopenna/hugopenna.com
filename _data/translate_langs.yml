@@ -5,6 +5,10 @@
   img: https://www.countryflags.io/us/flat/64.png
   text: English
 
+- lang: es
+  img: https://www.countryflags.io/es/flat/64.png
+  text: spanish
+
 - lang: fr
   img: https://www.countryflags.io/fr/flat/64.png
   text: Franch
