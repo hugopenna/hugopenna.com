@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: post
 title: Now
-permalink: "/now/"
-
+hidden: related_posts
 ---
 
 Trabalhando na [Gedanken](https://gedanken.com.br/) como Gerente de Projetos/Produto 
