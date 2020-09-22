@@ -2,7 +2,7 @@
 layout: post
 title: Um viva a diversidade
 date: 2018-10-02 23:00:00 -0300
-categories: 'devaneios'
+categories: 'Devaneios'
 
 ---
 Sei que agora pode ser tarde demais para te falar isso, na verdade nunca é tarde demais para recomeçar o caminho da evolução.
