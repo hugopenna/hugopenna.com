@@ -1,4 +1,4 @@
-## Meu blog ponto com.
+## Meu blog ponto com
 
 Escrevo uns textos nele, faço uns teste e experimentos pra ver se ele vai sair do ar e por ai vai. 
 
