@@ -30,14 +30,8 @@ twitter_username: hugopenna
 github_username:  hugopenna
 linkedin_username: hugopenna
 
+
 sitemap: True
-
-
-defaults:
-   home:
-     heading: "Olá, eu sou o Hugo"
-     subheading: "Esse é meu espaço de expressão e comunicação."
-     banner: "/assets/banner.jpg"
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -127,5 +121,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-
