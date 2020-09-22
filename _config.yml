@@ -30,8 +30,12 @@ twitter_username: hugopenna
 github_username:  hugopenna
 linkedin_username: hugopenna
 
+defaults:
+   home:
+     heading: "Olá, eu sou o Hugo"
+     subheading: "Esse é meu espaço de expressão e comunicação."
+     banner: "/assets/banner.jpg"
 
-sitemap: True
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -48,7 +52,7 @@ yat:
 # google_analytics: [Tracking ID]
 
 # If you want to generate website sitemap, you can set true
-# sitemap: false
+sitemap: true
 
 # If you want to change site language, you can set lang option
 lang: "pt-br"  # default lang is en
