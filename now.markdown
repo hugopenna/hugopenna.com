@@ -4,10 +4,13 @@ title: Now
 hidden: related_posts
 ---
 
-Trabalhando na [Gedanken](https://gedanken.com.br/) como Gerente de Projetos/Produto 
+Empreendendo no [PJ 101](pj101.com.br)
 
-Terminando o [Welcome to the Django](http://welcometothedjango.com.br/)
+Tentando aprender como se faz marketing digital de forma consistente
 
-Andando de bicicleta no meio do mato
+Estudando para a prova de Rádio Amador
 
 Em quarentena #dendicasa
+
+
+Atualizado em 31/12/2020
