@@ -6,7 +6,7 @@ categories: 'desafio2021'
 
 ---
 
-/assets/melisa-reinhold-sB-UbaAWfxc-unsplash.jpg
+![alcatraz](/assets/melisa-reinhold-sB-UbaAWfxc-unsplash.jpg)
 
 Hoje é o dia 02 de 2021, falhei escrever ontem, me distrai com ouyrras atividades e deixei passar,mqs hoje eu não vou fazer o mesmo.
 
