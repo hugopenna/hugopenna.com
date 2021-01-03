@@ -2,7 +2,7 @@
 layout: post
 banner: /assets/melisa-reinhold-sB-UbaAWfxc-unsplash.jpg
 title: prisioneiro dos meus julgamentos
-date: 2020-12-31 14:00:00 -0300
+date: 202q-01-02 23:00:00 -0300
 categories: 'desafio2021'
 
 ---
