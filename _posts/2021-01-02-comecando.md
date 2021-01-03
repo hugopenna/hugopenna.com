@@ -6,9 +6,6 @@ date: 2020-12-31 14:00:00 -0300
 categories: 'desafio2021'
 
 ---
-
-![alcatraz](/assets/melisa-reinhold-sB-UbaAWfxc-unsplash.jpg)
-
 Hoje é o dia 02 de 2021, falhei escrever ontem, me distrai com ouyrras atividades e deixei passar,mqs hoje eu não vou fazer o mesmo.
 
 São 23:35, quase que vira a dia,mas tô aqui,firme e forte,rs.
