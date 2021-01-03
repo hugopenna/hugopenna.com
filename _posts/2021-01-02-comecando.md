@@ -1,12 +1,13 @@
 ---
 layout: post
+banner: /assets/melisa-reinhold-sB-UbaAWfxc-unsplash.jpg
 title: prisioneiro dos meus julgamentos
 date: 2020-12-31 14:00:00 -0300
 categories: 'desafio2021'
 
 ---
 
-![alcatraz](/assets/melisa-reinhold-sB-UbaAWfxc-unsplash.jpg)
+![alcatraz]()
 
 Hoje é o dia 02 de 2021, falhei escrever ontem, me distrai com ouyrras atividades e deixei passar,mqs hoje eu não vou fazer o mesmo.
 
