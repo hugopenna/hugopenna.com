@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cada dia um novo dia
+title: Persistir é o caminho
 banner: /assets/dawid-zawila--G3rw6Y02D0-unsplash.jpg
 date: 2021-01-11 12:00:00 -0300
 categories: 'desafio2021'
