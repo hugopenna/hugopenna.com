@@ -2,25 +2,31 @@
 layout: post
 title: Cada dia um novo dia
 banner: /assets/dawid-zawila--G3rw6Y02D0-unsplash.jpg
-date: 2021-01-09 12:00:00 -0300
+date: 2021-01-11 12:00:00 -0300
 categories: 'desafio2021'
 
 ---
 
-Como é dificil se manter com as escolhar boas, mas não desejadas.
-Como é dificil escolher a comida mais saudável, quando tem nutella no mundo.
-Como é dificil sair pra caminhar, quando o sofá está tão pertinho.
-Como é dificil fazer tudo aquilo que você se propos, que tem resultados positivos no longo prazo, que você sabe que precisa fazer, mas no final das contas fica lutando contra você mesmo.
+Hoje o dia foi duro, gravei algumas aulas e tentei olhar alguma coisa de marketing digital. Aos poucos estou sentindo na pele o que é aprender fazendo, o que é aprender errando, como realmente é natural, mas que esquecemos depois de tanto tempo no ensino tradicional, onde o erro é passivel de punição e é negado a você essa possibilidade. Onde as respostas para "acertar" estão dentro de um livro, que se você decorar direitinho, você vai acertar tudinho, mas no fim não vai aprender nadinha de nada.
 
-A minha única meta para 2021 é cuidar mais da minha saúde física e mental, mas olha, sair pra caminhar não tá sendo fácil. Mas pior ainda é segurar as besteiras, estou falhando miseralvelmente em conseguir comer de forma saudável nesse inicio de ano, é uma junção de comidas das festas, férias e guloseimas muito doida.
+Vai aprender como eu aprendi sobre marketing digital, tudo na teoria, tudo no nivel de discussão de bar e apresentação de powerpoint, mas nada mão na massa, não vi uma tag, não vi um keyword, um nada disso ai da prática.
 
-Simplesmente estou colocando isso um pouco de lado e focando na caminhada diária, para pelos menos garantir a saúde mental e algum movimento no corpo.
+Isso me deixou baqueado boa parte do dia, mas também me fez refletir e pensar nas coisas que venho lendo e vendo nos últimos anos e como agora eu estou realmente colocando a prova as coisas que eu digo que acredito.
 
-Está nos meus planos olhar o P90x novamente e organizar um plano de alimentação para reduzir as besteiras e guloseimas, mas até o momento é só um plano distante ainda.
+Isso me fez lembrar de duas pessoas:
 
-Dificil ou não, todo dia é um novo dia para começar e praticar mais uma vez.
-Como escrevi esses dias por aqui, o importante é a consistência, se eu conseguir me manter consistente nas caminhadas já será de grande ajuda. Vamos uma consistência por vez.
+Peter Levels  e seu famoso video sobre montar coisas na internet, onde ele fala para você aprender buscando no google.
 
-Até mais ver, até amanhã;
+.
 
-Esse é o post 006 do meu desafio2021, se quiser receber atualizações semanais, é só se inscrever abaixo.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6reLWfFNer0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+E o famoso Pai Rico, Pai pobre - Robert Kiyosaki e suas críticas ao sistema de ensino.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/skZZaMW4dsY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Onde o principal ponto em comum dos dois é que você não deveria aprender tudo de um assunto ou procurar por alguem que possa responder as coisas por você, principalmente, se essa pessoa não tiver experiência PRATICA!
+
+Esse é o ponto em comum dos dois, a PRATICA.
+
+Até amanhã :)
