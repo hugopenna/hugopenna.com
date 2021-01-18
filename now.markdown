@@ -10,6 +10,8 @@ Tentando aprender como se faz marketing digital de forma consistente
 
 Estudando para a prova de Rádio Amador
 
+Andando de bike por ai.
+
 Em quarentena #dendicasa
 
 
