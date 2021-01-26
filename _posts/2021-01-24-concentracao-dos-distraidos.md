@@ -30,7 +30,7 @@ O Resultado na redução do impulso em pegar o celular diminuiu consideravelment
 
 #### Aceitar que as vezes não ta rolando
 
-No meio da última semana, eu estava um tanto quanto cansado e com muitas dificuldades de conseguir me concentrar e escrever o roteiro de um dos vídeos da [mentoria do PJ101](pj101.com.br) e eu relutei por muito tempo até resolver dar uma parada e ir fazer outra coisa da vida que não fosse trabalhar na mentoria.
+No meio da última semana, eu estava um tanto quanto cansado e com muitas dificuldades de conseguir me concentrar e escrever o roteiro de um dos vídeos da [mentoria do PJ101](https://pj101.com.br) e eu relutei por muito tempo até resolver dar uma parada e ir fazer outra coisa da vida que não fosse trabalhar na mentoria.
 
 As vezes uma pausa de 15 a 30 min, seja para descansar, tomar um café ou desacelerar a mente é o que você está precisando e seu corpo está pedindo, sem que você dê ouvidos.
 
