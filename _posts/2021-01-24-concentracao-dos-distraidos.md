@@ -2,7 +2,7 @@
 layout: post
 title: Concentração dos distraídos
 banner: /assets/jojo-sharemyfoodd-3_ca2Q0-3nw-unsplash.jpg
-date: 2021-01-22 12:00:00 -0300
+date: 2021-01-24 12:00:00 -0300
 categories: 'desafio2021'
 
 ---
