@@ -2,7 +2,7 @@
 layout: post
 title: Missão Cumprida
 banner: /assets/brian-mcgowan-I0fDR8xtApA-unsplash.jpg
-date: 2021-01-24 12:00:00 -0300
+date: 2021-01-25 12:00:00 -0300
 categories: 'desafio2021'
 
 ---
